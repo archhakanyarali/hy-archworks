@@ -1,0 +1,702 @@
+{
+  "projects": [
+    {
+      "id": "factory",
+      "title": "Axis Works",
+      "en": "Axis Works",
+      "category": [
+        "Mimari tasarım · BIM · Film",
+        "Architectural design · BIM · Film"
+      ],
+      "type": [
+        "Endüstriyel mimarlık",
+        "Industrial architecture"
+      ],
+      "status": [
+        "Kişisel proje",
+        "Self-initiated project"
+      ],
+      "role": [
+        "Mimari tasarım, cephe tasarımı, Revit/BIM, görselleştirme ve animasyon",
+        "Architectural design, facade design, Revit/BIM, visualization and animation"
+      ],
+      "brief": [
+        "Endüstriyel bir yapının kimliğini; cephe ritmi, malzeme dengesi ve güçlü bir giriş aksı üzerinden araştıran bütüncül bir mimari çalışma.",
+        "An integrated architectural study exploring the identity of an industrial building through facade rhythm, material balance and a clearly defined entrance."
+      ],
+      "story": [
+        "Tasarım kararları Revit modeli, cephe ve kesit çalışmalarıyla birlikte geliştirildi. Düşey kütleler ve kırmızı vurgular, üretim hacmiyle yönetim bölümünü tek bir cephe kompozisyonunda buluşturuyor. Görselleştirme ve hareketli sunum bu tasarım sürecinin devamını oluşturuyor.",
+        "Design decisions were developed alongside the Revit model, elevations and sections. Vertical volumes and red accents bring the production hall and administration block together in one facade composition. Visualization and motion extend this design process into a complete presentation."
+      ],
+      "images": [
+        "factory-front",
+        "factory-angle",
+        "factory-detail",
+        "section",
+        "elevation"
+      ],
+      "captions": [
+        [
+          "Giriş cephesi",
+          "Entrance facade"
+        ],
+        [
+          "Cephe ritmi ve kütle",
+          "Facade rhythm and massing"
+        ],
+        [
+          "Malzeme ve yaklaşım",
+          "Material and approach"
+        ],
+        [
+          "Mimari kesit",
+          "Architectural section"
+        ],
+        [
+          "Cephe görünüşü",
+          "Facade elevation"
+        ]
+      ],
+      "video": "factory-hero.mp4"
+    },
+    {
+      "id": "bungalow",
+      "title": "Bungalow Rocks",
+      "en": "Bungalow Rocks",
+      "category": [
+        "Konsept mimarlık · Çevre · Film",
+        "Concept architecture · Environment · Film"
+      ],
+      "type": [
+        "Konut konsepti",
+        "Residential concept"
+      ],
+      "status": [
+        "Kişisel konsept proje",
+        "Self-initiated concept"
+      ],
+      "role": [
+        "Mimari konsept, tasarım, 3B modelleme, çevre tasarımı, görselleştirme ve animasyon",
+        "Architectural concept, design, 3D modeling, environment design, visualization and animation"
+      ],
+      "brief": [
+        "Kayalık bir peyzaj içinde; yapı, arazi ve atmosferin birlikte tasarlandığı kompakt bir kaçış mekânı.",
+        "A compact retreat within a rocky landscape, with architecture, terrain and atmosphere designed as one composition."
+      ],
+      "story": [
+        "İlk tasarım fikrinden son görsel sunuma kadar geliştirilen proje, eğimli çatı formunu kayalık araziyle ilişkilendiriyor. Teras, giriş ve ahşap yüzeyler insan ölçeğini öne çıkarırken, ışık ve çevre tasarımı mekânın atmosferini tamamlıyor.",
+        "Developed from the first design idea to the final visual presentation, the project relates a pitched roof form to its rocky setting. The terrace, entrance and timber surfaces establish a human scale, while lighting and environment design complete the atmosphere."
+      ],
+      "images": [
+        "bungalow-hero",
+        "bungalow-landscape",
+        "bungalow-entrance",
+        "bungalow-material",
+        "bungalow05"
+      ],
+      "captions": [
+        [
+          "Form ve peyzaj",
+          "Form and landscape"
+        ],
+        [
+          "Araziyle ilişki",
+          "Relationship to the terrain"
+        ],
+        [
+          "Giriş ve insan ölçeği",
+          "Entrance and human scale"
+        ],
+        [
+          "Malzeme ve detay",
+          "Material and detail"
+        ],
+        [
+          "Yaklaşım ve ahşap cephe",
+          "Approach and timber facade"
+        ]
+      ],
+      "video": "bungalow-film.mp4"
+    },
+    {
+      "id": "car",
+      "title": "Car Refurbishment Center",
+      "en": "Car Refurbishment Center",
+      "category": [
+        "İsveç · Ticari görselleştirme",
+        "Sweden · Commercial visualization"
+      ],
+      "type": [
+        "Araç yenileme merkezi",
+        "Vehicle refurbishment center"
+      ],
+      "status": [
+        "Uluslararası müşteri projesi",
+        "International client project"
+      ],
+      "role": [
+        "3B modelleme, dış ve iç mekân görselleştirme, fotoğraf üzerine mimari yerleştirme",
+        "3D modeling, exterior and interior visualization, architectural photomontage"
+      ],
+      "brief": [
+        "İsveç’teki bir araç yenileme merkezi için hazırlanan; genel yerleşimi, yapıların ilişkisini ve iç mekânları bir araya getiren ticari görselleştirme çalışması.",
+        "Commercial visualization for a vehicle refurbishment center in Sweden, bringing together the site layout, building relationships and interiors."
+      ],
+      "story": [
+        "Hava fotoğrafı üzerine yerleştirilen model, tesisin mevcut çevreyle ilişkisini görünür kılıyor. Dış mekân görselleri yaklaşım ve araç alanlarını; iç mekân görselleri ise ofis ve çalışma ortamını anlatıyor. Projedeki rol, modelleme ve görsel sunum üretimini kapsıyor.",
+        "The model is integrated into an aerial photograph to show the facility in its existing context. Exterior views communicate arrival and vehicle areas, while interior views describe the office and working environment. The project role covers modeling and visual presentation."
+      ],
+      "images": [
+        "car-aerial",
+        "car-exterior",
+        "car-arrival",
+        "car-aerial-alt",
+        "car-office-1",
+        "car-office-2",
+        "car-office-3",
+        "car-site-alt",
+        "car-overview",
+        "car-facade",
+        "car-view",
+        "car-plan0",
+        "car-plan1"
+      ],
+      "captions": [
+        [
+          "Hava fotoğrafı üzerine mimari yerleştirme",
+          "Architectural photomontage on aerial photography"
+        ],
+        [
+          "Tesis ve yaklaşım",
+          "Facility and approach"
+        ],
+        [
+          "Araç alanları",
+          "Vehicle areas"
+        ],
+        [
+          "Genel yerleşim",
+          "Overall site layout"
+        ],
+        [
+          "Ofis / 01",
+          "Office / 01"
+        ],
+        [
+          "Ofis / 02",
+          "Office / 02"
+        ],
+        [
+          "Çalışma mekânı",
+          "Workspace"
+        ],
+        [
+          "Saha ilişkileri",
+          "Site relationships"
+        ],
+        [
+          "Genel görünüm",
+          "Overview"
+        ],
+        [
+          "Servis yapısı — ön görünüm",
+          "Service building — front view"
+        ],
+        [
+          "Servis girişleri ve otopark",
+          "Service entrances and parking"
+        ],
+        [
+          "Birinci kat — üstten model görünümü",
+          "First floor — top-down model view"
+        ],
+        [
+          "İkinci kat — üstten model görünümü",
+          "Second floor — top-down model view"
+        ]
+      ],
+      "video": null
+    },
+    {
+      "id": "facade",
+      "title": "Facade & Aluminum Systems",
+      "en": "Facade & Aluminum Systems",
+      "category": [
+        "Cephe · Sistem · Üretim",
+        "Facade · Systems · Production"
+      ],
+      "type": [
+        "Alüminyum ve cam sistemleri",
+        "Aluminum and glazing systems"
+      ],
+      "status": [
+        "Profesyonel çalışmalar",
+        "Professional work"
+      ],
+      "role": [
+        "Cephe detaylandırma, imalat çizimleri, metraj, sistem görselleştirme ve üretim desteği",
+        "Facade detailing, shop drawings, quantity takeoff, system visualization and production support"
+      ],
+      "brief": [
+        "Pergola, biyoklimatik sistemler, cam çatı ve alüminyum doğramaları; tasarım, üretim ve sunum arasında ele alan seçki.",
+        "A selection of pergola, bioclimatic, glass roof and aluminum systems connecting design, production and presentation."
+      ],
+      "story": [
+        "Cephe sistemleri, detaylandırma ve uygulama süreçlerinden seçki.",
+        "A collection of facade systems, detailing and construction processes."
+      ],
+      "images": [
+        "archive-rodos-10",
+        "archive-rodos-7",
+        "archive-rodos-14",
+        "archive-imaj-11",
+        "archive-imaj-13",
+        "cad-shading"
+      ],
+      "captions": [
+        [
+          "biyoklimatik örtü ve restoran oturumu",
+          "bioclimatic canopy and restaurant seating"
+        ],
+        [
+          "gölgeleme altında gün ışığı",
+          "daylight beneath the shading system"
+        ],
+        [
+          "cam ve alüminyum kış bahçesi",
+          "glass and aluminum conservatory"
+        ],
+        [
+          "cephe uygulama süreci",
+          "facade installation"
+        ],
+        [
+          "doğrama ve tuğla birleşimi",
+          "joinery and brick interface"
+        ],
+        [
+          "güneş kırıcı profil yerleşimi / DWG",
+          "shading-screen profile layout / DWG"
+        ]
+      ],
+      "video": null
+    }
+  ],
+  "experience": [
+    [
+      "Güncel",
+      "Current",
+      "HY Archworks",
+      "Bağımsız mimar · Görselleştirme ve animasyon",
+      "Independent architect · Visualization and animation"
+    ],
+    [
+      "2025",
+      "2025",
+      "İmaj Metal",
+      "Cephe tasarımı, imalat çizimleri ve saha koordinasyonu",
+      "Facade design, shop drawings and site coordination"
+    ],
+    [
+      "2024",
+      "2024",
+      "Aksiyal Mimarlık",
+      "Mimari tasarım, uygulama projeleri ve sunum",
+      "Architectural design, construction documents and presentation"
+    ],
+    [
+      "2023",
+      "2023",
+      "Rodos Alüminyum",
+      "Alüminyum sistemleri, metraj ve görselleştirme",
+      "Aluminum systems, quantity takeoff and visualization"
+    ],
+    [
+      "2022",
+      "2022",
+      "Şerafettin Derin Mimarlık / Derin Project",
+      "Uygulama projeleri, hesaplar ve 3B modelleme",
+      "Construction documents, project calculations and 3D modeling"
+    ],
+    [
+      "2021",
+      "2021",
+      "Hakan Dülger Mimarlık / FAD YAPI",
+      "Proje üretimi, modelleme ve görselleştirme",
+      "Architectural documentation, modeling and visualization"
+    ]
+  ],
+  "version": "1.6",
+  "galleries": {
+    "project-apartment": [
+      {
+        "image": "assets/archive-aks-plan-restored.png",
+        "tr": "Villa — zemin kat",
+        "en": "Villa — ground floor"
+      },
+      {
+        "image": "assets/archive-aks-3-restored.png",
+        "tr": "Villa — birinci kat",
+        "en": "Villa — first floor"
+      },
+      {
+        "image": "assets/archive-aks-8-restored.png",
+        "tr": "Villa — bodrum kat",
+        "en": "Villa — basement"
+      },
+      {
+        "image": "assets/archive-aks-10-restored.png",
+        "tr": "Çok katlı yapı — zemin kat",
+        "en": "Multi-storey building — ground floor"
+      },
+      {
+        "image": "assets/archive-aks-11-restored.png",
+        "tr": "Çok katlı yapı — birinci kat",
+        "en": "Multi-storey building — first floor"
+      },
+      {
+        "image": "assets/archive-aks-0-restored.png",
+        "tr": "Çok katlı yapı — ikinci kat",
+        "en": "Multi-storey building — second floor"
+      },
+      {
+        "image": "assets/archive-aks-1-restored.png",
+        "tr": "Çok katlı yapı — üçüncü kat",
+        "en": "Multi-storey building — third floor"
+      },
+      {
+        "image": "assets/archive-aks-12-restored.png",
+        "tr": "Çok katlı yapı — bodrum kat",
+        "en": "Multi-storey building — basement"
+      },
+      {
+        "image": "assets/concept-floor-layout.webp",
+        "tr": "Konsept Kat Yerleşimi",
+        "en": "Concept Floor Layout"
+      },
+      {
+        "image": "assets/archive-byapi1000.webp",
+        "tr": "Konut — daire ve ortak alan yerleşimi",
+        "en": "Residential — apartments and shared circulation"
+      },
+      {
+        "image": "assets/floor-plan.webp",
+        "tr": "Konut — tip kat boyaması",
+        "en": "Residential — colored typical floor"
+      },
+      {
+        "image": "assets/apartment-1.webp",
+        "tr": "Daire tipleri — 01",
+        "en": "Apartment layouts — 01"
+      },
+      {
+        "image": "assets/apartment-2.webp",
+        "tr": "Daire tipleri — 02",
+        "en": "Apartment layouts — 02"
+      },
+      {
+        "image": "assets/archive-aks-site-restored.png",
+        "tr": "boyalı vaziyet planı",
+        "en": "colored site plan"
+      },
+      {
+        "image": "assets/site-plan.webp",
+        "tr": "Vaziyet planı sunumu",
+        "en": "Site plan presentation"
+      }
+    ],
+    "project-bungalow": [
+      {
+        "image": "assets/bungalow-hero.webp",
+        "tr": "Form ve peyzaj",
+        "en": "Form and landscape"
+      },
+      {
+        "image": "assets/bungalow-landscape.webp",
+        "tr": "Araziyle ilişki",
+        "en": "Relationship to the terrain"
+      },
+      {
+        "image": "assets/bungalow-entrance.webp",
+        "tr": "Giriş ve insan ölçeği",
+        "en": "Entrance and human scale"
+      },
+      {
+        "image": "assets/bungalow-material.webp",
+        "tr": "Malzeme ve detay",
+        "en": "Material and detail"
+      },
+      {
+        "image": "assets/bungalow05.webp",
+        "tr": "Yaklaşım ve ahşap cephe",
+        "en": "Approach and timber facade"
+      }
+    ],
+    "project-car": [
+      {
+        "image": "assets/car-aerial.webp",
+        "tr": "Hava fotoğrafı üzerine mimari yerleştirme",
+        "en": "Architectural photomontage on aerial photography"
+      },
+      {
+        "image": "assets/car-exterior.webp",
+        "tr": "Tesis ve yaklaşım",
+        "en": "Facility and approach"
+      },
+      {
+        "image": "assets/car-arrival.webp",
+        "tr": "Araç alanları",
+        "en": "Vehicle areas"
+      },
+      {
+        "image": "assets/car-aerial-alt.webp",
+        "tr": "Genel yerleşim",
+        "en": "Overall site layout"
+      },
+      {
+        "image": "assets/car-office-1.webp",
+        "tr": "Ofis / 01",
+        "en": "Office / 01"
+      },
+      {
+        "image": "assets/car-office-2.webp",
+        "tr": "Ofis / 02",
+        "en": "Office / 02"
+      },
+      {
+        "image": "assets/car-office-3.webp",
+        "tr": "Çalışma mekânı",
+        "en": "Workspace"
+      },
+      {
+        "image": "assets/car-site-alt.webp",
+        "tr": "Saha ilişkileri",
+        "en": "Site relationships"
+      },
+      {
+        "image": "assets/car-overview.webp",
+        "tr": "Genel görünüm",
+        "en": "Overview"
+      },
+      {
+        "image": "assets/car-facade.webp",
+        "tr": "Servis yapısı — ön görünüm",
+        "en": "Service building — front view"
+      },
+      {
+        "image": "assets/car-view.webp",
+        "tr": "Servis girişleri ve otopark",
+        "en": "Service entrances and parking"
+      },
+      {
+        "image": "assets/car-plan0.webp",
+        "tr": "Birinci kat — üstten model görünümü",
+        "en": "First floor — top-down model view"
+      },
+      {
+        "image": "assets/car-plan1.webp",
+        "tr": "İkinci kat — üstten model görünümü",
+        "en": "Second floor — top-down model view"
+      }
+    ],
+    "project-event": [
+      {
+        "image": "assets/wedding.webp",
+        "tr": "Etkinlik Mekânı / 01",
+        "en": "Event Space / 01"
+      }
+    ],
+    "project-facade": [
+      {
+        "image": "assets/archive-rodos-10.webp",
+        "tr": "biyoklimatik örtü ve restoran oturumu",
+        "en": "bioclimatic canopy and restaurant seating"
+      },
+      {
+        "image": "assets/archive-rodos-7.webp",
+        "tr": "gölgeleme altında gün ışığı",
+        "en": "daylight beneath the shading system"
+      },
+      {
+        "image": "assets/archive-rodos-14.webp",
+        "tr": "cam ve alüminyum kış bahçesi",
+        "en": "glass and aluminum conservatory"
+      },
+      {
+        "image": "assets/archive-imaj-11.webp",
+        "tr": "cephe uygulama süreci",
+        "en": "facade installation"
+      },
+      {
+        "image": "assets/archive-imaj-13.webp",
+        "tr": "doğrama ve tuğla birleşimi",
+        "en": "joinery and brick interface"
+      },
+      {
+        "image": "assets/cad-shading.webp",
+        "tr": "güneş kırıcı profil yerleşimi / DWG",
+        "en": "shading-screen profile layout / DWG"
+      }
+    ],
+    "project-factory": [
+      {
+        "image": "assets/factory-front.webp",
+        "tr": "Giriş cephesi",
+        "en": "Entrance facade"
+      },
+      {
+        "image": "assets/factory-angle.webp",
+        "tr": "Cephe ritmi ve kütle",
+        "en": "Facade rhythm and massing"
+      },
+      {
+        "image": "assets/factory-detail.webp",
+        "tr": "Malzeme ve yaklaşım",
+        "en": "Material and approach"
+      },
+      {
+        "image": "assets/section.webp",
+        "tr": "Mimari kesit",
+        "en": "Architectural section"
+      },
+      {
+        "image": "assets/elevation.webp",
+        "tr": "Cephe görünüşü",
+        "en": "Facade elevation"
+      }
+    ],
+    "project-faculty": [
+      {
+        "image": "assets/faculty.webp",
+        "tr": "Fakülte Yapısı / 01",
+        "en": "Faculty Building / 01"
+      }
+    ],
+    "project-furniture": [
+      {
+        "image": "assets/coffee-1.webp",
+        "tr": "Sehpa Tasarımı / 01",
+        "en": "Coffee Table / 01"
+      },
+      {
+        "image": "assets/coffee-2.webp",
+        "tr": "Sehpa Tasarımı / 02",
+        "en": "Coffee Table / 02"
+      },
+      {
+        "image": "assets/coffee3.webp",
+        "tr": "Tabla ve alt gövde",
+        "en": "Tabletop and base"
+      },
+      {
+        "image": "assets/coffee4.webp",
+        "tr": "Malzeme ve ışık çalışması",
+        "en": "Material and lighting study"
+      }
+    ],
+    "project-hospitality": [
+      {
+        "image": "assets/bonito-patio.webp",
+        "tr": "Bonito’s — Bar ve Kafeterya / 01",
+        "en": "Bonito’s — Bar & Cafeteria / 01"
+      },
+      {
+        "image": "assets/bonito-interior.webp",
+        "tr": "Bonito’s — Bar ve Kafeterya / 02",
+        "en": "Bonito’s — Bar & Cafeteria / 02"
+      },
+      {
+        "image": "assets/bonito-stairs.webp",
+        "tr": "Bonito’s — Bar ve Kafeterya / 03",
+        "en": "Bonito’s — Bar & Cafeteria / 03"
+      },
+      {
+        "image": "assets/bonito-bar.webp",
+        "tr": "Bar ve teras ilişkisi",
+        "en": "Bar and terrace relationship"
+      },
+      {
+        "image": "assets/bonito-container.webp",
+        "tr": "Konteynerden iç mekâna bakış",
+        "en": "View from container to interior"
+      },
+      {
+        "image": "assets/bonito-patio2.webp",
+        "tr": "Teras — karşı açı",
+        "en": "Terrace — reverse angle"
+      }
+    ],
+    "project-kitchen": [
+      {
+        "image": "assets/kitchen-1.webp",
+        "tr": "Mutfak Çalışması / 01",
+        "en": "Kitchen Study / 01"
+      },
+      {
+        "image": "assets/kitchen-2.webp",
+        "tr": "Mutfak Çalışması / 02",
+        "en": "Kitchen Study / 02"
+      },
+      {
+        "image": "assets/kitchen-alt.webp",
+        "tr": "Yemek alanı ve bahçe açıklığı",
+        "en": "Dining area and garden opening"
+      }
+    ],
+    "project-residence": [
+      {
+        "image": "assets/gum-exterior1.webp",
+        "tr": "Cephe — perspektif",
+        "en": "Facade — perspective"
+      },
+      {
+        "image": "assets/gum-exterior2.webp",
+        "tr": "Karşı açı",
+        "en": "Reverse angle"
+      },
+      {
+        "image": "assets/gum-exterior3.webp",
+        "tr": "Giriş ve malzeme",
+        "en": "Entrance and material"
+      },
+      {
+        "image": "assets/gum-exterior4.webp",
+        "tr": "Ön cephe",
+        "en": "Front elevation"
+      },
+      {
+        "image": "assets/cad-ground.webp",
+        "tr": "Zemin kat planı",
+        "en": "Ground floor plan"
+      },
+      {
+        "image": "assets/cad-typical.webp",
+        "tr": "Tip kat planı",
+        "en": "Typical floor plan"
+      },
+      {
+        "image": "assets/cad-section.webp",
+        "tr": "A–A / B–B bina kesitleri",
+        "en": "A–A / B–B building sections"
+      },
+      {
+        "image": "assets/cad-elevation.webp",
+        "tr": "Doğu cephesi",
+        "en": "East elevation"
+      },
+      {
+        "image": "assets/cad-details.webp",
+        "tr": "Merdiven, ıslak hacim ve yapı detayları",
+        "en": "Stair, wet-area and construction details"
+      }
+    ],
+    "project-villa": [
+      {
+        "image": "assets/villa.webp",
+        "tr": "Modern Villa ve Havuz / 01",
+        "en": "Modern Villa & Pool / 01"
+      }
+    ]
+  },
+  "technicalSheetCount": 18
+}

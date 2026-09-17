@@ -1,0 +1,371 @@
+{
+  "project-apartment": [
+    {
+      "image": "assets/archive-aks-plan-restored.png",
+      "tr": "Villa — zemin kat",
+      "en": "Villa — ground floor"
+    },
+    {
+      "image": "assets/archive-aks-3-restored.png",
+      "tr": "Villa — birinci kat",
+      "en": "Villa — first floor"
+    },
+    {
+      "image": "assets/archive-aks-8-restored.png",
+      "tr": "Villa — bodrum kat",
+      "en": "Villa — basement"
+    },
+    {
+      "image": "assets/archive-aks-10-restored.png",
+      "tr": "Çok katlı yapı — zemin kat",
+      "en": "Multi-storey building — ground floor"
+    },
+    {
+      "image": "assets/archive-aks-11-restored.png",
+      "tr": "Çok katlı yapı — birinci kat",
+      "en": "Multi-storey building — first floor"
+    },
+    {
+      "image": "assets/archive-aks-0-restored.png",
+      "tr": "Çok katlı yapı — ikinci kat",
+      "en": "Multi-storey building — second floor"
+    },
+    {
+      "image": "assets/archive-aks-1-restored.png",
+      "tr": "Çok katlı yapı — üçüncü kat",
+      "en": "Multi-storey building — third floor"
+    },
+    {
+      "image": "assets/archive-aks-12-restored.png",
+      "tr": "Çok katlı yapı — bodrum kat",
+      "en": "Multi-storey building — basement"
+    },
+    {
+      "image": "assets/concept-floor-layout.webp",
+      "tr": "Konsept Kat Yerleşimi",
+      "en": "Concept Floor Layout"
+    },
+    {
+      "image": "assets/archive-byapi1000.webp",
+      "tr": "Konut — daire ve ortak alan yerleşimi",
+      "en": "Residential — apartments and shared circulation"
+    },
+    {
+      "image": "assets/floor-plan.webp",
+      "tr": "Konut — tip kat boyaması",
+      "en": "Residential — colored typical floor"
+    },
+    {
+      "image": "assets/apartment-1.webp",
+      "tr": "Daire tipleri — 01",
+      "en": "Apartment layouts — 01"
+    },
+    {
+      "image": "assets/apartment-2.webp",
+      "tr": "Daire tipleri — 02",
+      "en": "Apartment layouts — 02"
+    },
+    {
+      "image": "assets/archive-aks-site-restored.png",
+      "tr": "boyalı vaziyet planı",
+      "en": "colored site plan"
+    },
+    {
+      "image": "assets/site-plan.webp",
+      "tr": "Vaziyet planı sunumu",
+      "en": "Site plan presentation"
+    }
+  ],
+  "project-bungalow": [
+    {
+      "image": "assets/bungalow-hero.webp",
+      "tr": "Form ve peyzaj",
+      "en": "Form and landscape"
+    },
+    {
+      "image": "assets/bungalow-landscape.webp",
+      "tr": "Araziyle ilişki",
+      "en": "Relationship to the terrain"
+    },
+    {
+      "image": "assets/bungalow-entrance.webp",
+      "tr": "Giriş ve insan ölçeği",
+      "en": "Entrance and human scale"
+    },
+    {
+      "image": "assets/bungalow-material.webp",
+      "tr": "Malzeme ve detay",
+      "en": "Material and detail"
+    },
+    {
+      "image": "assets/bungalow05.webp",
+      "tr": "Yaklaşım ve ahşap cephe",
+      "en": "Approach and timber facade"
+    }
+  ],
+  "project-car": [
+    {
+      "image": "assets/car-aerial.webp",
+      "tr": "Hava fotoğrafı üzerine mimari yerleştirme",
+      "en": "Architectural photomontage on aerial photography"
+    },
+    {
+      "image": "assets/car-exterior.webp",
+      "tr": "Tesis ve yaklaşım",
+      "en": "Facility and approach"
+    },
+    {
+      "image": "assets/car-arrival.webp",
+      "tr": "Araç alanları",
+      "en": "Vehicle areas"
+    },
+    {
+      "image": "assets/car-aerial-alt.webp",
+      "tr": "Genel yerleşim",
+      "en": "Overall site layout"
+    },
+    {
+      "image": "assets/car-office-1.webp",
+      "tr": "Ofis / 01",
+      "en": "Office / 01"
+    },
+    {
+      "image": "assets/car-office-2.webp",
+      "tr": "Ofis / 02",
+      "en": "Office / 02"
+    },
+    {
+      "image": "assets/car-office-3.webp",
+      "tr": "Çalışma mekânı",
+      "en": "Workspace"
+    },
+    {
+      "image": "assets/car-site-alt.webp",
+      "tr": "Saha ilişkileri",
+      "en": "Site relationships"
+    },
+    {
+      "image": "assets/car-overview.webp",
+      "tr": "Genel görünüm",
+      "en": "Overview"
+    },
+    {
+      "image": "assets/car-facade.webp",
+      "tr": "Servis yapısı — ön görünüm",
+      "en": "Service building — front view"
+    },
+    {
+      "image": "assets/car-view.webp",
+      "tr": "Servis girişleri ve otopark",
+      "en": "Service entrances and parking"
+    },
+    {
+      "image": "assets/car-plan0.webp",
+      "tr": "Birinci kat — üstten model görünümü",
+      "en": "First floor — top-down model view"
+    },
+    {
+      "image": "assets/car-plan1.webp",
+      "tr": "İkinci kat — üstten model görünümü",
+      "en": "Second floor — top-down model view"
+    }
+  ],
+  "project-event": [
+    {
+      "image": "assets/wedding.webp",
+      "tr": "Etkinlik Mekânı / 01",
+      "en": "Event Space / 01"
+    }
+  ],
+  "project-facade": [
+    {
+      "image": "assets/archive-rodos-10.webp",
+      "tr": "biyoklimatik örtü ve restoran oturumu",
+      "en": "bioclimatic canopy and restaurant seating"
+    },
+    {
+      "image": "assets/archive-rodos-7.webp",
+      "tr": "gölgeleme altında gün ışığı",
+      "en": "daylight beneath the shading system"
+    },
+    {
+      "image": "assets/archive-rodos-14.webp",
+      "tr": "cam ve alüminyum kış bahçesi",
+      "en": "glass and aluminum conservatory"
+    },
+    {
+      "image": "assets/archive-imaj-11.webp",
+      "tr": "cephe uygulama süreci",
+      "en": "facade installation"
+    },
+    {
+      "image": "assets/archive-imaj-13.webp",
+      "tr": "doğrama ve tuğla birleşimi",
+      "en": "joinery and brick interface"
+    },
+    {
+      "image": "assets/cad-shading.webp",
+      "tr": "güneş kırıcı profil yerleşimi / DWG",
+      "en": "shading-screen profile layout / DWG"
+    }
+  ],
+  "project-factory": [
+    {
+      "image": "assets/factory-front.webp",
+      "tr": "Giriş cephesi",
+      "en": "Entrance facade"
+    },
+    {
+      "image": "assets/factory-angle.webp",
+      "tr": "Cephe ritmi ve kütle",
+      "en": "Facade rhythm and massing"
+    },
+    {
+      "image": "assets/factory-detail.webp",
+      "tr": "Malzeme ve yaklaşım",
+      "en": "Material and approach"
+    },
+    {
+      "image": "assets/section.webp",
+      "tr": "Mimari kesit",
+      "en": "Architectural section"
+    },
+    {
+      "image": "assets/elevation.webp",
+      "tr": "Cephe görünüşü",
+      "en": "Facade elevation"
+    }
+  ],
+  "project-faculty": [
+    {
+      "image": "assets/faculty.webp",
+      "tr": "Fakülte Yapısı / 01",
+      "en": "Faculty Building / 01"
+    }
+  ],
+  "project-furniture": [
+    {
+      "image": "assets/coffee-1.webp",
+      "tr": "Sehpa Tasarımı / 01",
+      "en": "Coffee Table / 01"
+    },
+    {
+      "image": "assets/coffee-2.webp",
+      "tr": "Sehpa Tasarımı / 02",
+      "en": "Coffee Table / 02"
+    },
+    {
+      "image": "assets/coffee3.webp",
+      "tr": "Tabla ve alt gövde",
+      "en": "Tabletop and base"
+    },
+    {
+      "image": "assets/coffee4.webp",
+      "tr": "Malzeme ve ışık çalışması",
+      "en": "Material and lighting study"
+    }
+  ],
+  "project-hospitality": [
+    {
+      "image": "assets/bonito-patio.webp",
+      "tr": "Bonito’s — Bar ve Kafeterya / 01",
+      "en": "Bonito’s — Bar & Cafeteria / 01"
+    },
+    {
+      "image": "assets/bonito-interior.webp",
+      "tr": "Bonito’s — Bar ve Kafeterya / 02",
+      "en": "Bonito’s — Bar & Cafeteria / 02"
+    },
+    {
+      "image": "assets/bonito-stairs.webp",
+      "tr": "Bonito’s — Bar ve Kafeterya / 03",
+      "en": "Bonito’s — Bar & Cafeteria / 03"
+    },
+    {
+      "image": "assets/bonito-bar.webp",
+      "tr": "Bar ve teras ilişkisi",
+      "en": "Bar and terrace relationship"
+    },
+    {
+      "image": "assets/bonito-container.webp",
+      "tr": "Konteynerden iç mekâna bakış",
+      "en": "View from container to interior"
+    },
+    {
+      "image": "assets/bonito-patio2.webp",
+      "tr": "Teras — karşı açı",
+      "en": "Terrace — reverse angle"
+    }
+  ],
+  "project-kitchen": [
+    {
+      "image": "assets/kitchen-1.webp",
+      "tr": "Mutfak Çalışması / 01",
+      "en": "Kitchen Study / 01"
+    },
+    {
+      "image": "assets/kitchen-2.webp",
+      "tr": "Mutfak Çalışması / 02",
+      "en": "Kitchen Study / 02"
+    },
+    {
+      "image": "assets/kitchen-alt.webp",
+      "tr": "Yemek alanı ve bahçe açıklığı",
+      "en": "Dining area and garden opening"
+    }
+  ],
+  "project-residence": [
+    {
+      "image": "assets/gum-exterior1.webp",
+      "tr": "Cephe — perspektif",
+      "en": "Facade — perspective"
+    },
+    {
+      "image": "assets/gum-exterior2.webp",
+      "tr": "Karşı açı",
+      "en": "Reverse angle"
+    },
+    {
+      "image": "assets/gum-exterior3.webp",
+      "tr": "Giriş ve malzeme",
+      "en": "Entrance and material"
+    },
+    {
+      "image": "assets/gum-exterior4.webp",
+      "tr": "Ön cephe",
+      "en": "Front elevation"
+    },
+    {
+      "image": "assets/cad-ground.webp",
+      "tr": "Zemin kat planı",
+      "en": "Ground floor plan"
+    },
+    {
+      "image": "assets/cad-typical.webp",
+      "tr": "Tip kat planı",
+      "en": "Typical floor plan"
+    },
+    {
+      "image": "assets/cad-section.webp",
+      "tr": "A–A / B–B bina kesitleri",
+      "en": "A–A / B–B building sections"
+    },
+    {
+      "image": "assets/cad-elevation.webp",
+      "tr": "Doğu cephesi",
+      "en": "East elevation"
+    },
+    {
+      "image": "assets/cad-details.webp",
+      "tr": "Merdiven, ıslak hacim ve yapı detayları",
+      "en": "Stair, wet-area and construction details"
+    }
+  ],
+  "project-villa": [
+    {
+      "image": "assets/villa.webp",
+      "tr": "Modern Villa ve Havuz / 01",
+      "en": "Modern Villa & Pool / 01"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+v1.6 — Visual restoration
+Built-in image generation/editing tool was used for seven supplied images.
+Two additional clean images were taken directly from the user's TEMİZ folder.
+The restored images are colored presentation plans, not the CAD documentation.
+
+Prompt set:
+1. Precisely edit this supplied architectural plan image. ONLY repair the ugly solid rectangular/stair-stepped patch in the very bottom-right corner that was used to cover an AKSIYAL logo. Remove all remaining logo fragments. Reconstruct the continuous surrounding background and the black outer border naturally with no visible seam, no solid patch, no blur. On the villa ground floor image the patch overlaps the bottom-right water/landscape background: continue those existing textures appropriately. Preserve EVERY other pixel's content: all architectural geometry, walls, furniture, room labels, Turkish text, dimensions, page title, colors, aspect ratio and full framing. Do NOT redesign the plan, do NOT crop the image, do NOT add any branding or text. Output the corrected image at high resolution suitable for the website. This is a localized restoration, not a new drawing.
+2. Localized restoration only: repair the damaged bottom-right page border and background where a company logo was erased with a stepped grey rectangle. Restore uniform matching grey page background and continuous black outer frame. No logos, no patch edges. Preserve the complete architectural floor plan, ALL dimensions, all Turkish room names and floor title, all walls, furnishings and materials EXACTLY as supplied. Do not redesign or enhance the plan. No crop. Only the small bottom-right footer/border needs repair. Same aspect ratio.
+
+Final assets:
+assets/archive-aks-10-restored.png
+assets/archive-aks-3-restored.png
+assets/archive-aks-plan-restored.png
+assets/archive-aks-site-restored.png
+assets/archive-aks-11-restored.png
+assets/archive-aks-12-restored.png
+assets/archive-aks-8-restored.png
+assets/archive-aks-0-restored.png
+assets/archive-aks-1-restored.png
+assets/concept-floor-layout.webp
