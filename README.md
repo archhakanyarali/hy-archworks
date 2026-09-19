@@ -1,3 +1,2 @@
 # HY Archworks
-
-Public portfolio website.
+Bilingual architectural portfolio. Open index.html. Static GitHub Pages site.
