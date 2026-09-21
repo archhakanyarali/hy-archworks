@@ -125,17 +125,17 @@
       "en": "Overall site layout"
     },
     {
-      "image": "assets/car-office-1.webp",
+      "image": "assets/interior-car-office-1-enhanced.webp",
       "tr": "Ofis / 01",
       "en": "Office / 01"
     },
     {
-      "image": "assets/car-office-2.webp",
+      "image": "assets/interior-car-office-2-enhanced.webp",
       "tr": "Ofis / 02",
       "en": "Office / 02"
     },
     {
-      "image": "assets/car-office-3.webp",
+      "image": "assets/interior-car-office-3-enhanced.webp",
       "tr": "Çalışma mekânı",
       "en": "Workspace"
     },
@@ -255,7 +255,7 @@
       "en": "Coffee Table / 02"
     },
     {
-      "image": "assets/coffee3.webp",
+      "image": "assets/interior-coffee3-enhanced.webp",
       "tr": "Tabla ve alt gövde",
       "en": "Tabletop and base"
     },
@@ -267,12 +267,12 @@
   ],
   "project-hospitality": [
     {
-      "image": "assets/bonito-patio.webp",
+      "image": "assets/interior-bonito-patio-enhanced.webp",
       "tr": "Bonito’s — Bar ve Kafeterya / 01",
       "en": "Bonito’s — Bar & Cafeteria / 01"
     },
     {
-      "image": "assets/bonito-interior.webp",
+      "image": "assets/interior-bonito-interior-enhanced.webp",
       "tr": "Bonito’s — Bar ve Kafeterya / 02",
       "en": "Bonito’s — Bar & Cafeteria / 02"
     },
@@ -299,7 +299,7 @@
   ],
   "project-kitchen": [
     {
-      "image": "assets/kitchen-1.webp",
+      "image": "assets/interior-kitchen-1-enhanced.webp",
       "tr": "Mutfak Çalışması / 01",
       "en": "Kitchen Study / 01"
     },
@@ -309,7 +309,7 @@
       "en": "Kitchen Study / 02"
     },
     {
-      "image": "assets/kitchen-alt.webp",
+      "image": "assets/interior-kitchen-alt-enhanced.webp",
       "tr": "Yemek alanı ve bahçe açıklığı",
       "en": "Dining area and garden opening"
     }
