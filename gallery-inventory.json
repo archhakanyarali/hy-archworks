@@ -367,5 +367,57 @@
       "tr": "Modern Villa ve Havuz / 01",
       "en": "Modern Villa & Pool / 01"
     }
+  ],
+  "project-interiors": [
+    {
+      "image": "assets/interior-preschool-concept.webp",
+      "en": "Preschool wash area / Concept study",
+      "tr": "Anaokulu lavabo alanı / Konsept çalışması"
+    },
+    {
+      "image": "assets/interior-kitchen-1-enhanced.webp",
+      "en": "Kitchen Study / Daylight and integrated joinery",
+      "tr": "Mutfak Çalışması / Gün ışığı ve bütünleşik dolap tasarımı"
+    },
+    {
+      "image": "assets/interior-kitchen-2-enhanced.webp",
+      "en": "Kitchen Study / Material and light / View 02",
+      "tr": "Mutfak Çalışması / Malzeme ve ışık / Görünüş 02"
+    },
+    {
+      "image": "assets/interior-kitchen-alt-enhanced.webp",
+      "en": "Kitchen Study / Dining area and garden opening",
+      "tr": "Mutfak Çalışması / Yemek alanı ve bahçe açıklığı"
+    },
+    {
+      "image": "assets/interior-bonito-interior-enhanced.webp",
+      "en": "Bonito's - Bar & Cafeteria / Material, rhythm and atmosphere",
+      "tr": "Bonito’s - Bar ve Kafeterya / Malzeme, ritim ve atmosfer"
+    },
+    {
+      "image": "assets/interior-bonito-patio-enhanced.webp",
+      "en": "Bonito's - Bar & Cafeteria / Filtered daylight and shared space",
+      "tr": "Bonito’s - Bar ve Kafeterya / Süzülen gün ışığı ve ortak alan"
+    },
+    {
+      "image": "assets/interior-car-office-2-enhanced.webp",
+      "en": "Car Refurbishment Center / Meeting room / Sweden",
+      "tr": "Araç Yenileme Merkezi / Toplantı odası / İsveç"
+    },
+    {
+      "image": "assets/interior-car-office-1-enhanced.webp",
+      "en": "Car Refurbishment Center / Workstations / Sweden",
+      "tr": "Araç Yenileme Merkezi / Çalışma alanı / İsveç"
+    },
+    {
+      "image": "assets/interior-car-office-3-enhanced.webp",
+      "en": "Car Refurbishment Center / Staff lounge / Sweden",
+      "tr": "Araç Yenileme Merkezi / Personel dinlenme alanı / İsveç"
+    },
+    {
+      "image": "assets/interior-coffee3-enhanced.webp",
+      "en": "Coffee Table Study / Form, finish and structural expression",
+      "tr": "Sehpa Tasarımı / Form, yüzey ve taşıyıcı ifade"
+    }
   ]
 }
